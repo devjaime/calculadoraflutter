@@ -1,8 +1,25 @@
-# calculadoraflutter
+# [Español] Calculadora Básica
 
-A new Flutter project.
+Calculadora básica para aprender sobre el estado de los widget
 
-## Getting Started
+## [Español] Definiciones
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+La calculadora solo cumple con los metodos de sumar, restar, dividir y multiplicar
+
+En la imagen a continuación se muestra las funcionalidades basicas de la calculadora
+
+<img src="https://github.com/lawebdeprogramador/calculadoraflutter/tree/master/images/cal1.gif" alt="Original design" height="480"/> <img src="https://github.com/lawebdeprogramador/calculadoraflutter/tree/master/images/cal2.gif" alt="My result" height="480"/>
+
+# [Ingles] Basic Calculator
+
+Basic calculator to learn about the status of the widget
+
+## [Ingles] Definitions
+
+The calculator only complies with the methods of adding, subtracting, dividing and multiplying
+
+The image below shows the basic functionalities of the calculator
+
+<img src="https://github.com/lawebdeprogramador/calculadoraflutter/tree/master/images/cal1.gif" alt="Original design" height="480"/> <img src="https://github.com/lawebdeprogramador/calculadoraflutter/tree/master/images/cal2.gif" alt="My result" height="480"/>
+
+
